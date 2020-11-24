@@ -1,5 +1,5 @@
 # mylogin
-
+vuex 实现登录
 > A Vue.js project
 
 ## Build Setup
